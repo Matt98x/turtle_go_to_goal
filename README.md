@@ -25,11 +25,13 @@
 
 ## Results
 
+All results were taken from an initialized turtle node(5.544445,5.544445,0) and extracted from the printed results
+
 | Goal positions| Error in reaching the goal| Number of iterations to reaching the goal  |
 | ------------- |:-------------------------:| ------------------------------------------:|
-| (7, 4)        |                           |                                            |
-| (2, 9)        |                           |                                            |
-| (1,1)         |                           |                                            |
+| (7, 4)        |                           0.08510|                                            20|
+| (2, 9)        |                           0.08777|                                            17|
+| (1,1)         |                           0.08613|                                            22|
 
 
 
